@@ -1,3 +1,5 @@
+package progettolpemc_estensione1;
+
 // $ANTLR 3.5.1 /home/edoardo/NetBeansProjects/ProgettoLPeMC/src/MiniFun.g 2014-03-14 12:43:56
 
 import java.util.HashMap;

@@ -1,3 +1,5 @@
+package progettolpemc_estensione1;
+
 
 
 // $ANTLR 3.2 Sep 23, 2009 12:02:23 S:\\LPeMC\\MaterialeDidattico\\Esercitazione_12_20\\VM.g 2013-12-20 15:55:28
