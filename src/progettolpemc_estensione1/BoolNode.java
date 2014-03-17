@@ -1,3 +1,5 @@
+package progettolpemc_estensione1;
+
 
 
 public class BoolNode extends Node {
