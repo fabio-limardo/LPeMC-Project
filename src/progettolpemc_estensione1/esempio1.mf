@@ -1,0 +1,6 @@
+let fun a:int (c:int) {
+        let fun b:int(d:int) {
+                c+d
+            }; in print(not(b(0)));
+    };
+in print(a(1));
